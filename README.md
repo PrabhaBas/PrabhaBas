@@ -1,4 +1,4 @@
-<h3 align="center">Student|Passionate Programmer</h3>
+<h3 align="center">Student/Passionate Programmer</h3>
 
 - 📫 How to reach me **prabhavathibaskar2000@gmail.com**
 
